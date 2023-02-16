@@ -1,0 +1,4 @@
+geopy==2.3.0
+Levenshtein==0.20.9
+pandas==1.5.3
+pybktree==1.1
